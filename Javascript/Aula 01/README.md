@@ -1,0 +1,1 @@
+javascript interno e externo
